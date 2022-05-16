@@ -16,6 +16,7 @@
 - Learn Go
 - Learn C++ (still scarred from uni...)
 - Study data science masters degree
+- Learning LIT. Great framework.
 
 <!--
 **SamuelHornsey/SamuelHornsey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
