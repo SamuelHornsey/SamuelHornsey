@@ -5,7 +5,7 @@
 ## My Skills
 
 - NodeJS
-- React (+ I'm a Preact fan)
+- React
 - Typescript
 - Python
 - AWS + GCP + Azure (All the clouds)
@@ -14,7 +14,7 @@
 ## My Goals
 
 - Learn Go
-- Learn C++ (still scarred from uni...)
+- Learn C++
 - Study data science masters degree
 - Learning LIT. Great framework.
 
