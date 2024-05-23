@@ -33,6 +33,7 @@
 - Notes App
 - Fluxt Event Streaming
 - WASM Related
+- CodeOrDie Blog
 
 ## 😎 Let's Connect
 [![Linkedin Badge](https://img.shields.io/badge/Samuel%20Hornsey-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuel-hornsey)](https://www.linkedin.com/in/samuel-hornsey) [![Gmail Badge](https://img.shields.io/badge/me@samuelhornsey.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:me@samuelhornsey.com)](mailto:me@samuelhornsey.com)
