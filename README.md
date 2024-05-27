@@ -30,7 +30,8 @@
 
 ## 🏗️ My Current Projects
 
-- Notes App
+- [Personal Website (samuelhornsey.com)](https://samuelhornsey.com)
+- [Notes App (notes.samuelhornsey.com)](https://notes.samuelhornsey.com)
 - Fluxt Event Streaming
 - WASM Related
 - CodeOrDie Blog
